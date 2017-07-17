@@ -1,0 +1,32 @@
+\contentsline {section}{Acknowledgment}{i}{Doc-Start}
+\contentsline {section}{Table of Contents}{iii}{Doc-Start}
+\contentsline {section}{List of Figures}{iv}{Doc-Start}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Background}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Objectives}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Problem Statement}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Scope of project}{3}{subsection.1.4}
+\contentsline {section}{\numberline {2}LITERATURE REVIEW}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Theory Details}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Related Work}{6}{subsection.2.2}
+\contentsline {section}{\numberline {3}METHODOLOGY}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Data Collection}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Data Preprocessing}{7}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Data analysis and visualization}{7}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Feature Selection}{8}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Prediction}{8}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}Prediction using Technical Analysis }{9}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}K- nearest neighbor}{12}{subsubsection.3.5.2}
+\contentsline {subsection}{\numberline {3.6}Tools and Technique}{13}{subsection.3.6}
+\contentsline {section}{\numberline {4}Software Development Model}{18}{section.4}
+\contentsline {section}{\numberline {5}REQUIREMENTS}{19}{section.5}
+\contentsline {subsection}{\numberline {5.1}Functional Requirements}{19}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2} Non-Functional Requirements}{19}{subsection.5.2}
+\contentsline {section}{\numberline {6}System Model}{21}{section.6}
+\contentsline {subsection}{\numberline {6.1}Backlog}{21}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Dataflow Diagram}{22}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Sequence Diagram}{23}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Use Case Modeling}{24}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Activity Diagram}{25}{subsection.6.5}
+\contentsline {section}{\numberline {7}CONCLUSION}{26}{section.7}
+\contentsline {section}{References}{27}{section.7}

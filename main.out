@@ -1,0 +1,32 @@
+\BOOKMARK [1][-]{Doc-Start}{Acknowledgment}{}% 1
+\BOOKMARK [1][-]{Doc-Start}{Table of Contents}{}% 2
+\BOOKMARK [1][-]{Doc-Start}{List of Figures}{}% 3
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 4
+\BOOKMARK [2][-]{subsection.1.1}{Background}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.2}{Objectives}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.3}{Problem Statement}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.4}{Scope of project}{section.1}% 8
+\BOOKMARK [1][-]{section.2}{LITERATURE REVIEW}{}% 9
+\BOOKMARK [2][-]{subsection.2.1}{Theory Details}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.2}{Related Work}{section.2}% 11
+\BOOKMARK [1][-]{section.3}{METHODOLOGY}{}% 12
+\BOOKMARK [2][-]{subsection.3.1}{Data Collection}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.2}{Data Preprocessing}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.3}{Data analysis and visualization}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.4}{Feature Selection}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.5}{Prediction}{section.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.5.1}{Prediction using Technical Analysis }{subsection.3.5}% 18
+\BOOKMARK [3][-]{subsubsection.3.5.2}{K- nearest neighbor}{subsection.3.5}% 19
+\BOOKMARK [2][-]{subsection.3.6}{Tools and Technique}{section.3}% 20
+\BOOKMARK [1][-]{section.4}{Software Development Model}{}% 21
+\BOOKMARK [1][-]{section.5}{REQUIREMENTS}{}% 22
+\BOOKMARK [2][-]{subsection.5.1}{Functional Requirements}{section.5}% 23
+\BOOKMARK [2][-]{subsection.5.2}{ Non-Functional Requirements}{section.5}% 24
+\BOOKMARK [1][-]{section.6}{System Model}{}% 25
+\BOOKMARK [2][-]{subsection.6.1}{Backlog}{section.6}% 26
+\BOOKMARK [2][-]{subsection.6.2}{Dataflow Diagram}{section.6}% 27
+\BOOKMARK [2][-]{subsection.6.3}{Sequence Diagram}{section.6}% 28
+\BOOKMARK [2][-]{subsection.6.4}{Use Case Modeling}{section.6}% 29
+\BOOKMARK [2][-]{subsection.6.5}{Activity Diagram}{section.6}% 30
+\BOOKMARK [1][-]{section.7}{CONCLUSION}{}% 31
+\BOOKMARK [1][-]{section.7}{References}{}% 32
